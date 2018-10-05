@@ -1,0 +1,6 @@
+vendor
+.idea
+env.sh
+run.sh
+Dockerfile
+.git
